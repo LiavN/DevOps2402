@@ -4,7 +4,7 @@ c = 5
 d = b + c
 e = True
 f = False
-r = ['one', 'two', 'three']
+r = ['sason']
 t = ["Liav", "Nefesh", 34, True]
 
 z = {
