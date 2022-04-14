@@ -22,7 +22,7 @@ if first_array:
 
 if len(second_array) > 2:
     print("second array has more then 2 elements")
-
+a = 54
 c = 5
 d = 5
 e = [1, 2, 3]
