@@ -4,7 +4,7 @@ c = 5
 d = b + c
 e = True
 f = False
-r = ["david"]
+r = [1, 2, 3, 4, 5]
 t = ["Liav", "Nefesh", 34, True]
 
 z = {
